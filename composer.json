@@ -1,0 +1,12 @@
+{
+    "name": "anosim/myUsers",
+    "description": "myUsers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "anosim",
+            "email": "anosim@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
