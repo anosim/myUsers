@@ -2,4 +2,4 @@
 
 // This is just for testing purpose
 
-echo 'test';
+echo 'myUsers';
